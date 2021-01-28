@@ -1,5 +1,7 @@
 # IntroToSoftwareProfession-Project3
 
+This was a group project. I was responsible for the Display.java part of the project.
+
 // PROGRAM TITLE: Traveling Salesman
 // FILENAME: Main.java
 // EXTERNAL	FILES REQUIRED: City.java, Display.java
